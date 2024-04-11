@@ -47,7 +47,7 @@ const DashboardDefault = () => {
       <Grid item xs={12} md={5} lg={6}>
         <Grid container alignItems="center" justifyContent="space-between">
           <Grid item>
-            <Typography variant="h5">Analytics Report</Typography>
+            <Typography variant="h5">Analytics Reports</Typography>
           </Grid>
           <MainCard sx={{ mt: 2 }} content={false}>
             <SaveSearch />
