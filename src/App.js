@@ -10,6 +10,7 @@ const App = () => (
     <ScrollTop>
       {/* <Routes /> */}
       hello hello hello hello hello hello hello hello hello hello hello hello hello
+      {console.log('heeeeeee')}
     </ScrollTop>
   </ThemeCustomization>
 );
